@@ -128,7 +128,7 @@ function getPlaceholderMessage(selectedCipher) {
 }
 
 const cipherOptions = [
-  { value: 'caesar', label: 'Caesar Cipher' },
+  { value: 'caesar', label: 'Caesar' },
   { value: 'playfair', label: 'Playfair' },
   { value: 'railfence', label: 'Rail Fence' },
   { value: 'aes', label: 'AES' },
